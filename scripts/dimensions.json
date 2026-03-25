@@ -1,0 +1,28 @@
+{
+  "notes": "Working reference values should be reviewed against current LinkedIn guidance before production use.",
+  "assets": {
+    "profile_photo": {
+      "orientation": "square",
+      "aspect_ratio": "1:1"
+    },
+    "profile_background": {
+      "orientation": "landscape"
+    },
+    "company_logo": {
+      "orientation": "square",
+      "aspect_ratio": "1:1"
+    },
+    "company_cover": {
+      "orientation": "landscape"
+    },
+    "single_image_post": {
+      "orientation": "square_or_rectangle"
+    },
+    "carousel_document": {
+      "orientation": "slide_based"
+    },
+    "video": {
+      "orientation": "horizontal_or_vertical"
+    }
+  }
+}
