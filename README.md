@@ -1,5 +1,11 @@
 # LinkedIn
 
+[![Support Open Work](https://img.shields.io/badge/Support-Open%20Work-0A0A0A?style=flat&logo=github)](https://github.com/brandonhimpfen/support) 
+[![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) 
+[![Buy Me a Coffee](https://srv-cdn.himpfen.io/badges/buymeacoffee/buymeacoffee-flat.svg)](https://buymeacoffee.com/brandonhimpfen) 
+[![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/brandonhimpfen) 
+[![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://paypal.me/brandonhimpfen)
+
 A practical open reference for using LinkedIn more effectively, including dimensions, setup guidance, publishing checklists, templates, tutorials, small utilities, and curated resources.
 
 This repository is designed for professionals, creators, publishers, marketers, community managers, recruiters, founders, consultants, and organizations that use LinkedIn as a publishing and profile platform.
